@@ -59,15 +59,19 @@ p {
     background-position: center;
 }
 
+/* Float Left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Float Right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
+
+
 
 .content {
     width: 75%;
@@ -188,13 +192,13 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
